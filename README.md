@@ -98,12 +98,22 @@ Node.js • PostgreSQL • Docker
 
 ---
 
-## 🏆 Achievements
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=4R7HUR9&theme=algolia&no-frame=true&column=7"/>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/4r7hur9/4r7hur9/output/dist/github-snake-dark.svg"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/4r7hur9/4r7hur9/output/dist/github-snake.svg"
+    />
+    <img 
+      alt="Snake animation das contribuições do GitHub" 
+      src="https://raw.githubusercontent.com/4r7hur9/4r7hur9/output/dist/github-snake.svg"
+    />
+  </picture>
 </p>
-
 ---
 
 ## 🌎 Connect
