@@ -49,71 +49,85 @@ const arthur = {
 
 ## Featured Projects
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%">
-      <h3>🤖 <a href="https://github.com/4r7hur9/EntrevistAI">EntrevistAI</a></h3>
-      <p>
-        AI-powered interview simulator built with Gemini, designed to conduct professional interview sessions through a chatbot experience and provide feedback focused on soft skills, communication and candidate improvement.
-      </p>
-      <p>
-        <strong>Stack:</strong> TypeScript • Gemini AI • Chatbot • Frontend
-      </p>
+    <td width="50%" align="center" valign="middle">
+      <div align="center">
+        <h3>🤖 <a href="https://github.com/4r7hur9/EntrevistAI">EntrevistAI</a></h3>
+        <p>
+          AI-powered interview simulator built with Gemini, designed to conduct professional interview sessions through a chatbot experience and provide feedback focused on soft skills, communication and candidate improvement.
+        </p>
+        <p>
+          <strong>Stack:</strong> TypeScript • Gemini AI • Chatbot • Frontend
+        </p>
+      </div>
     </td>
-    <td width="50%">
-      <h3>🧠 <a href="https://github.com/4r7hur9/AI-Microservice-Summarization-API">AI Summarization API</a></h3>
-      <p>
-        Backend microservice for text summarization using Google Gemini, with input validation, standardized error handling and a clean API structure for AI-based processing.
-      </p>
-      <p>
-        <strong>Stack:</strong> TypeScript • Node.js • Gemini AI • Zod • API
-      </p>
+
+    <td width="50%" align="center" valign="middle">
+      <div align="center">
+        <h3>🧠 <a href="https://github.com/4r7hur9/AI-Microservice-Summarization-API">AI Summarization API</a></h3>
+        <p>
+          Backend microservice for text summarization using Google Gemini, with input validation, standardized error handling and a clean API structure for AI-based processing.
+        </p>
+        <p>
+          <strong>Stack:</strong> TypeScript • Node.js • Gemini AI • Zod • API
+        </p>
+      </div>
     </td>
   </tr>
 
   <tr>
-    <td width="50%">
-      <h3>📊 <a href="https://github.com/4r7hur9/AI-powered-sentiment-classifier-CLI">AI Sentiment Classifier CLI</a></h3>
-      <p>
-        Command-line application for classifying customer feedback as positive, negative or neutral using Gemini, with modular execution, batch mode and multilingual support.
-      </p>
-      <p>
-        <strong>Stack:</strong> JavaScript • Node.js • Gemini AI • CLI
-      </p>
+    <td width="50%" align="center" valign="middle">
+      <div align="center">
+        <h3>📊 <a href="https://github.com/4r7hur9/AI-powered-sentiment-classifier-CLI">AI Sentiment Classifier CLI</a></h3>
+        <p>
+          Command-line application for classifying customer feedback as positive, negative or neutral using Gemini, with modular execution, batch mode and multilingual support.
+        </p>
+        <p>
+          <strong>Stack:</strong> JavaScript • Node.js • Gemini AI • CLI
+        </p>
+      </div>
     </td>
-    <td width="50%">
-      <h3>📝 <a href="https://github.com/4r7hur9/Text-to-MD-Converter">Text to MD Converter</a></h3>
-      <p>
-        Shell utility for safely converting batches of .txt files into Markdown, including protection against data loss and detailed execution reports.
-      </p>
-      <p>
-        <strong>Stack:</strong> JavaScript • Shell • Markdown • Automation
-      </p>
+
+    <td width="50%" align="center" valign="middle">
+      <div align="center">
+        <h3>📝 <a href="https://github.com/4r7hur9/Text-to-MD-Converter">Text to MD Converter</a></h3>
+        <p>
+          Shell utility for safely converting batches of .txt files into Markdown, including protection against data loss and detailed execution reports.
+        </p>
+        <p>
+          <strong>Stack:</strong> JavaScript • Shell • Markdown • Automation
+        </p>
+      </div>
     </td>
   </tr>
 
   <tr>
-    <td width="50%">
-      <h3>🛒 <a href="https://github.com/4r7hur9/Educational-Clone-Of-OLX-In-React">Educational OLX Clone</a></h3>
-      <p>
-        Educational marketplace project inspired by OLX, focused on authentication, protected routes, ad management and REST API consumption.
-      </p>
-      <p>
-        <strong>Stack:</strong> React • Vite • Tailwind CSS • REST API
-      </p>
+    <td width="50%" align="center" valign="middle">
+      <div align="center">
+        <h3>🛒 <a href="https://github.com/4r7hur9/Educational-Clone-Of-OLX-In-React">Educational OLX Clone</a></h3>
+        <p>
+          Educational marketplace project inspired by OLX, focused on authentication, protected routes, ad management and REST API consumption.
+        </p>
+        <p>
+          <strong>Stack:</strong> React • Vite • Tailwind CSS • REST API
+        </p>
+      </div>
     </td>
-    <td width="50%">
-      <h3>🌐 <a href="https://github.com/4r7hur9/Outliers-lab-LP">Outliers Lab Landing Page</a></h3>
-      <p>
-        Example landing page built with TypeScript, focused on clean layout, responsive structure and frontend presentation.
-      </p>
-      <p>
-        <strong>Stack:</strong> TypeScript • HTML • CSS • Frontend
-      </p>
+
+    <td width="50%" align="center" valign="middle">
+      <div align="center">
+        <h3>🌐 <a href="https://github.com/4r7hur9/Outliers-lab-LP">Outliers Lab Landing Page</a></h3>
+        <p>
+          Example landing page built with TypeScript, focused on clean layout, responsive structure and frontend presentation.
+        </p>
+        <p>
+          <strong>Stack:</strong> TypeScript • HTML • CSS • Frontend
+        </p>
+      </div>
     </td>
   </tr>
 </table>
-
 ## 📈 GitHub Analytics
 
 <p align="center">
