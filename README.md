@@ -13,7 +13,6 @@
   scalability and exceptional user experience.
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -33,7 +32,6 @@ const arthur = {
 }
 ```
 
----
 
 ## ⚡ Core Stack
 
@@ -41,7 +39,6 @@ const arthur = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,docker" />
 </p>
 
----
 
 ## 🛠️ Technologies
 
@@ -49,7 +46,6 @@ const arthur = {
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,vue,nodejs,express,postgres,mongodb,mysql,redis,sqlite,docker,firebase,linux,git,github,postman,jest" />
 </p>
 
----
 
 ## 🔥 Featured Projects
 
@@ -60,8 +56,6 @@ Lead management platform with authentication, dashboard, pipeline tracking and r
 **Stack**
 React • Node.js • PostgreSQL • Docker
 
----
-
 ### 📊 Analytics Dashboard
 
 Interactive dashboard for metrics visualization and business intelligence.
@@ -69,7 +63,6 @@ Interactive dashboard for metrics visualization and business intelligence.
 **Stack**
 Next.js • TypeScript • PostgreSQL
 
----
 
 ### ⚙️ ISP Automation Suite
 
@@ -78,7 +71,6 @@ Automation tools focused on network operations, monitoring and management.
 **Stack**
 Node.js • PostgreSQL • Docker
 
----
 
 ## 📈 GitHub Analytics
 
@@ -88,15 +80,12 @@ Node.js • PostgreSQL • Docker
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4R7HUR9&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
----
 
 ## 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=4R7HUR9&theme=github-dark-blue&hide_border=true"/>
 </p>
-
----
 
 <p align="center">
   <picture>
@@ -114,7 +103,6 @@ Node.js • PostgreSQL • Docker
     />
   </picture>
 </p>
----
 
 ## 🌎 Connect
 
@@ -127,8 +115,6 @@ Node.js • PostgreSQL • Docker
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=4R7HUR9&style=for-the-badge&color=blue"/>
