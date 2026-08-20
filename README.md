@@ -15,9 +15,13 @@
   </picture>
 </div>
 
-<p align="center">
-  <b>Transforming complex ideas into scalable software.</b>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/typing-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/typing-light.svg" />
+    <img src="./profile/typing-dark.svg" alt="Transforming complex ideas into scalable software." />
+  </picture>
+</div>
 
 ## ⚡ Core Stack
 
