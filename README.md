@@ -23,13 +23,13 @@
   </picture>
 </div>
 
-## ⚡ Core Stack
+<h2 align="center">⚡ Core Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,docker" alt="Core stack" />
 </p>
 
-## 🛠️ Technologies
+<h2 align="center">🛠️ Technologies</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,vue,nodejs,express,postgres,mongodb,mysql,redis,sqlite,docker,firebase,linux,git,github,postman,jest" alt="Technologies" />
@@ -44,7 +44,7 @@
      e commitado no repo — nao depende de endpoint hospedado nenhum.
      ============================================================ -->
 
-## 📊 Stats
+<h2 align="center">📊 Stats</h2>
 
 <div align="center">
 
@@ -61,43 +61,43 @@
 
 </div>
 
-## 💼 Featured Projects
+<h2 align="center">💼 Featured Projects</h2>
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-      <h3>🤖 <a href="https://github.com/4r7hur9/EntrevistAI">EntrevistAI</a></h3>
-      <p>AI-powered interview simulator built with Gemini, designed to conduct professional interview sessions through a chatbot experience and provide feedback focused on soft skills, communication and candidate improvement.</p>
-      <p><strong>Stack:</strong> TypeScript • Gemini AI • Chatbot • Frontend</p>
+    <td width="50%" valign="top" align="center">
+      <h3>🎨 <a href="https://github.com/4r7hur9/profile-banner-generator">Banner Generator</a></h3>
+      <p>Python image pipeline behind the banner above: Floyd&ndash;Steinberg dithering, GrabCut segmentation and optimal-transport morphing.</p>
+      <p><strong>Stack:</strong> Python • NumPy • SciPy • OpenCV • SVG</p>
     </td>
-    <td width="50%" align="center">
-      <h3>🧠 <a href="https://github.com/4r7hur9/AI-Microservice-Summarization-API">AI Summarization API</a></h3>
-      <p>Backend microservice for text summarization using Google Gemini, with input validation, standardized error handling and a clean API structure for AI-based processing.</p>
-      <p><strong>Stack:</strong> TypeScript • Node.js • Gemini AI • Zod • API</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>📊 <a href="https://github.com/4r7hur9/AI-powered-sentiment-classifier-CLI">AI Sentiment Classifier CLI</a></h3>
-      <p>Command-line application for classifying customer feedback as positive, negative or neutral using Gemini, with modular execution, batch mode and multilingual support.</p>
-      <p><strong>Stack:</strong> JavaScript • Node.js • Gemini AI • CLI</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>📝 <a href="https://github.com/4r7hur9/Text-to-MD-Converter">Text to MD Converter</a></h3>
-      <p>Shell utility for safely converting batches of .txt files into Markdown, including protection against data loss and detailed execution reports.</p>
-      <p><strong>Stack:</strong> JavaScript • Shell • Markdown • Automation</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🛒 <a href="https://github.com/4r7hur9/Educational-Clone-Of-OLX-In-React">Educational OLX Clone</a></h3>
-      <p>Educational marketplace project inspired by OLX, focused on authentication, protected routes, ad management and REST API consumption.</p>
-      <p><strong>Stack:</strong> React • Vite • Tailwind CSS • REST API</p>
-    </td>
-    <td width="50%" align="center">
+    <td width="50%" valign="top" align="center">
       <h3>🌐 <a href="https://github.com/4r7hur9/IP2-Landing-Page">IP2 Landing Page</a></h3>
-      <p>Institutional landing page built to present IP2, highlighting its services, differentials and contact channels, with a focus on responsive design, performance and conversion.</p>
+      <p>Institutional landing page for IP2, built around responsive design, performance and conversion for a real client.</p>
       <p><strong>Stack:</strong> TypeScript • Responsive Design • Performance</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>📇 <a href="https://github.com/4r7hur9/Mini-CRM-Leads">Mini CRM Leads</a></h3>
+      <p>Lead management CRM for organising contacts, logging interactions and tracking opportunities through the pipeline.</p>
+      <p><strong>Stack:</strong> TypeScript • React • CRM</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🤖 <a href="https://github.com/4r7hur9/EntrevistAI">EntrevistAI</a></h3>
+      <p>AI interview simulator built on Gemini: runs a professional interview by chatbot and returns soft-skill feedback.</p>
+      <p><strong>Stack:</strong> TypeScript • Gemini AI • Chatbot</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🧠 <a href="https://github.com/4r7hur9/AI-Microservice-Summarization-API">AI Summarization API</a></h3>
+      <p>Backend microservice for text summarization with Google Gemini, input validation via Zod and standardized error handling.</p>
+      <p><strong>Stack:</strong> TypeScript • Node.js • Gemini AI • Zod</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📊 <a href="https://github.com/4r7hur9/AI-powered-sentiment-classifier-CLI">AI Sentiment Classifier</a></h3>
+      <p>CLI that classifies customer feedback as positive, negative or neutral with Gemini, with batch mode and multilingual support.</p>
+      <p><strong>Stack:</strong> JavaScript • Node.js • Gemini AI • CLI</p>
     </td>
   </tr>
 </table>
@@ -107,7 +107,7 @@
      Gerado por .github/workflows/snake.yml a cada 12 h.
      ============================================================ -->
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
   <picture>
@@ -133,7 +133,7 @@
      o logo vai embutido como data-URI base64.
      ============================================================ -->
 
-## 🌎 Connect
+<h2 align="center">🌎 Connect</h2>
 
 <div align="center">
 
