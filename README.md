@@ -19,24 +19,6 @@
   <b>Transforming complex ideas into scalable software.</b>
 </p>
 
-## 🚀 About Me
-
-```typescript
-const arthur = {
-  role: "Full Stack Developer",
-  location: "Fortaleza, Ceará — Brazil",
-  frontend: ["React", "Next.js", "TypeScript"],
-  backend: ["Node.js", "Express"],
-  database: ["PostgreSQL", "MongoDB", "Redis"],
-  devops: ["Docker", "Linux", "GitHub Actions"],
-  currentFocus: [
-    "Scalable Web Applications",
-    "Software Architecture",
-    "Performance Optimization"
-  ]
-}
-```
-
 ## ⚡ Core Stack
 
 <p align="center">
